@@ -7,5 +7,5 @@ metadata:
 spec: 
   containers: 
     - 
-      image: sw4iot/pushappxx:1.1
+      image: sw4iot/pushapp:1.1
       name: pushapp
