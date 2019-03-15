@@ -2,5 +2,5 @@
 kind: Application
 name: sw4iot-iot-pushapp
 containers:
-    - name: agent
-      image: sw4iot/agent:1.0
+    - name: pushapp
+      image: sw4iot/pushapp:1.0
