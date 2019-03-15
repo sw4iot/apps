@@ -1,1 +1,6 @@
-
+---
+kind: Application
+name: sw4iot-iot-pushapp
+containers:
+    - name: agent
+      image: sw4iot/agent:1.0
