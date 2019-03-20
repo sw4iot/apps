@@ -1,1 +1,7 @@
 
+---
+kind: Application
+name: mot-iot-pushapp
+containers:
+    - name: pushapp
+      image: sw4iot/mot_pushapp:1.0
