@@ -1,0 +1,7 @@
+
+---
+kind: Application
+name: sw4iot-iot-appserver
+containers:
+    - name: pushapp
+      image: sw4iot/appserver:1.0
