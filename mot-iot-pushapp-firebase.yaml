@@ -1,0 +1,6 @@
+---
+kind: Application
+name: pushapp-firebase
+containers:
+    - name: appserver
+      image: sw4iot/mot_appserver:1.0
